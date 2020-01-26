@@ -12,6 +12,8 @@ import (
 	"github.com/qor/admin"
 	"github.com/qor/assetfs"
 	"github.com/qor/qor/utils"
+
+	_ "github.com/sergolius/qor_bindatafs_example/config/bindatafs"
 )
 
 // Define a GORM-backend model
